@@ -1,15 +1,16 @@
 ---
-title: F7-Boosting-Cardanos-DeFi 
-description: How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
-Ideascale: https://cardano.ideascale.com/a/campaign-home/26233
+title: F7 - Miscellaneous Challenge
+description: How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+Ideascale: https://cardano.ideascale.com/a/campaign-home/26248
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
 
-# F7: Boosting Cardano's DeFi
+![2021-11-28 (6)](https://user-images.githubusercontent.com/25156451/143787531-8656c4e9-847a-48e4-afff-29358fb1fcc0.png)
 
-How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+# F7 - Miscellaneous Challenge
 
-Welcome to the GitHub repository of F7: Boosting Cardano's DeFi
+How do we create a space for ideas and projects that do not fit any of the other current Challenges?
+
+Welcome to the GitHub repository of F7 - Miscellaneous Challenge
 
 ## To participate :
 * Submit issues
